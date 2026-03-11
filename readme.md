@@ -1,3 +1,4 @@
+# ALTYAPI GÜNCELLENDİ!!!
 # Aşırı Gelişmiş 80 komutlu slash altyapı
 
 wnerscode tarafından geliştirilen aşırı gelişmiş altyapıya hoşgeldiniz..
@@ -33,8 +34,8 @@ kullanım botu başlatın
 
 # destek
 
-eğer bir hata alırsanız [wnerscode](https://discord.gg/uqS4DGQunW) bekleriz
+eğer bir hata alırsanız [wnerscode](https://discord.gg/wnerscode) bekleriz
 
 # youtube
 
-[kanalımız](https://www.youtube.com/@wtroex)
+[kanalımız](https://www.youtube.com/@wnersdev)
