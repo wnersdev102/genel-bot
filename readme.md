@@ -1,41 +1,49 @@
-# ALTYAPI GÜNCELLENDİ!!!
-# Aşırı Gelişmiş 80 komutlu slash altyapı
+<div align="center">
 
-wnerscode tarafından geliştirilen aşırı gelişmiş altyapıya hoşgeldiniz..
+# 🤖 Aşırı Gelişmiş Slash Altyapı
 
-# kurulum
+**wnersdev102 tarafından geliştirilen 80 komutlu Discord bot altyapısı**
 
-ilk başta [ayarlar.json](https://github.com/wnersdev102/asiri-gelismis-genel-bot/blob/main/ayarlar.json) bütün hepsini doldurduktan sonra
+[![Discord](https://img.shields.io/discord/wnerscode?label=Discord&logo=discord&logoColor=white&color=5865F2)](https://discord.gg/wnerscode)
+[![YouTube](https://img.shields.io/badge/YouTube-wnersdev-red?logo=youtube)](https://www.youtube.com/@wnersdev)
+[![Node.js](https://img.shields.io/badge/Node.js-required-brightgreen?logo=node.js)](https://nodejs.org)
+
+</div>
+
+---
+
+## 📦 Kurulum
+
+**1.** [`ayarlar.json`](https://github.com/wnersdev102/asiri-gelismis-genel-bot/blob/main/ayarlar.json) dosyasını tamamen doldurun
+
+**2.** Modülleri indirin:
 ```bash
 npm i
 ```
-modülleri indirin indirdikten sonra:
+
+**3.** Botu başlatın:
 ```bash
 node wnersdev.js
 ```
-kullanım botu başlatın
 
-# Özellikler
+---
 
-- Giriş/çıkış sistemi
-- otomatik rol sistemi
-- otomatik tag sistemi
-- otomatik cevap sistemi
-- davet sistemi
-- koruma sistemleri
-- eğlence sistemi
-- seviye sistemi
-- destek sistemi
-- çekiliş sistemi
-- kullanıcı sistemleri
-- buton rol sistemi
-- durum rol sistemi
-- bildirim sistemleri
+## ✨ Özellikler
 
-# destek
+| Sistem | Sistem | Sistem |
+|--------|--------|--------|
+| 🔔 Giriş/çıkış sistemi | 🎭 Otomatik rol sistemi | 🏷️ Otomatik tag sistemi |
+| 💬 Otomatik cevap sistemi | 📨 Davet sistemi | 🛡️ Koruma sistemleri |
+| 🎮 Eğlence sistemi | ⭐ Seviye sistemi | 🎫 Destek sistemi |
+| 🎁 Çekiliş sistemi | 👤 Kullanıcı sistemleri | 🔘 Buton rol sistemi |
+| 🟢 Durum rol sistemi | 📢 Bildirim sistemleri | |
 
-eğer bir hata alırsanız [wnerscode](https://discord.gg/wnerscode) bekleriz
+---
 
-# youtube
+## 🆘 Destek
 
-[kanalımız](https://www.youtube.com/@wnersdev)
+Bir hata aldıysanız **[Discord sunucumuza](https://discord.gg/wnerscode)** katılabilirsiniz.
+
+## 📺 YouTube
+
+Kurulum videoları ve güncellemeler için **[kanalımıza](https://www.youtube.com/@wnersdev)** abone olun.
