@@ -164,7 +164,7 @@ Kurulum rehberleri, yeni özellik tanıtımları ve güncellemeler için kanalı
 
 <div align="center">
 
-**wnersdev102 tarafından ❤️ ile geliştirildi**
+**wnersdev tarafından ❤️ ile geliştirildi**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=5865F2&height=100&section=footer" width="100%"/>
 
