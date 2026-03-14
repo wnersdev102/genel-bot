@@ -4,7 +4,7 @@
 
 # 🤖 Aşırı Gelişmiş Slash Altyapı
 
-**wnersdev102 tarafından geliştirilen, 80+ komutlu tam donanımlı Discord bot altyapısı**
+**wnersdev tarafından geliştirilen, 80+ komutlu tam donanımlı Discord bot altyapısı**
 
 [![Discord](https://img.shields.io/discord/wnerscode?label=Discord%20Sunucu&logo=discord&logoColor=white&color=5865F2&style=for-the-badge)](https://discord.gg/wnerscode)
 [![YouTube](https://img.shields.io/badge/YouTube-wnersdev-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/@wnersdev)
@@ -57,7 +57,7 @@ cd asiri-gelismis-genel-bot
 
 ### 2️⃣ `ayarlar.json` dosyasını doldurun
 
-[`ayarlar.json`](https://github.com/wnersdev102/asiri-gelismis-genel-bot/blob/main/ayarlar.json) dosyasını açın ve tüm alanları eksiksiz doldurun:
+[`ayarlar.json`](https://github.com/wnersdev102/genel-bot/blob/main/ayarlar.json) dosyasını açın ve tüm alanları eksiksiz doldurun:
 ```json
 {
   "token": "BOT_TOKEN_BURAYA",
@@ -148,7 +148,7 @@ Tüm ayarlar `ayarlar.json` dosyasından yönetilir. Detaylı açıklamalar içi
 
 Bir sorunla karşılaştıysanız:
 
-1. Önce [`ayarlar.json`](https://github.com/wnersdev102/asiri-gelismis-genel-bot/blob/main/ayarlar.json) dosyasını doğru doldurduğunuzdan emin olun
+1. Önce [`ayarlar.json`](https://github.com/wnersdev102/genel-bot/blob/main/ayarlar.json) dosyasını doğru doldurduğunuzdan emin olun
 2. Node.js sürümünüzün **v18+** olduğunu kontrol edin
 3. Hâlâ sorun yaşıyorsanız **[Discord sunucumuza](https://discord.gg/wnerscode)** katılın
 
